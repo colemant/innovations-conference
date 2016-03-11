@@ -1,0 +1,2 @@
+Name (required),Description,Start Time (required),End Time (required),Location,Session Tracks,Filters,Speaker IDs,Link URLs,Session ID
+sample name,sample description,3/13/2014 13:11:00,3/13/2014 13:11:00,sample location,"Sample Track #1, Sample Track #2","Sample Filter #1, Sample Filter #2","Speaker Unique ID #1, Speaker Unique ID #2","http://doubledutch.me, http://google.com",Unique Session ID
