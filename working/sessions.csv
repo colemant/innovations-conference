@@ -1,37 +1,37 @@
-Name (required),Description,Start Time (required),End Time (required),Location,Session Tracks,Filters,Speaker IDs,Link URLs,Session ID
-sample name,sample description,3/13/2014 13:11,3/13/2014 13:11,sample location,"Sample Track #1, Sample Track #2","Sample Filter #1, Sample Filter #2","Speaker Unique ID #1, Speaker Unique ID #2","http://doubledutch.me, http://google.com",Unique Session ID
-C10 Integrated ABM-DTA Models (Part 1: Theoretical Considerations),,5/1/2016 13:00,5/1/2016 14:45,,,Workshop,,,sun-p1-1
-Strategic Analysis Tools for Scenario Planning (SHRP C16),,5/1/2016 13:00,5/1/2016 14:45,,,Workshop,,,sun-p1-2
-Travel Analysis and Modeling using Python,,5/1/2016 13:00,5/1/2016 14:45,,,Tutorial,,,sun-p1-3
-C10 Integrated Models (Part 2: Application Perspectives),,5/1/2016 15:00,5/1/2016 17:00,,,Workshop,,,sun-p2-1
-C20 Behavior-based Freight Modeling Tools,,5/1/2016 15:00,5/1/2016 17:00,,,Workshop,,,sun-p2-2
-Tools for collaborative open source model development: GitHub and beyond!,,5/1/2016 15:00,5/1/2016 17:00,,,Tutorial,,,sun-p2-3
-Downtown Denver walking and history tour,,5/1/2016 17:30,5/1/2016 19:00,,,Social Event,,,sun-walking-tour
-Opening Session,,5/2/2016 8:30,5/2/2016 10:00,,,Plenary,,,mon-opening-session
-Mode Choice Modeling (Magical Mystery Tour),,5/2/2016 10:30,5/2/2016 12:00,,,Podium,,,mon-a2-1
-Uncertainty in Modeling (Tomorrow Never Knows),,5/2/2016 10:30,5/2/2016 12:00,,,Podium,,,mon-a2-2
-Big Data (Across the Universe),,5/2/2016 10:30,5/2/2016 12:00,,,Podium,,,mon-a2-3
-Regional Transportation District Tour,,5/2/2016 12:15,5/2/2016 13:15,,,Social Event,,,mon-rtd-tour
-Lunch,,5/2/2016 12:00,5/2/2016 13:30,,,Lunch,,,mon-lunch
-Innovations with Transit Data (Why Don't We Do It in the Road?),,5/2/2016 13:30,5/2/2016 15:00,,,Podium,,,mon-p1-1
-Connected Vehicles,,5/2/2016 13:30,5/2/2016 15:00,,,Workshop,,,mon-p1-2
-Travel Surveys and Big Data (Ask Me Why),,5/2/2016 13:30,5/2/2016 15:00,,,Lightning Talks,,,mon-p1-3
-Afternoon Plenary,,5/2/2016 15:30,5/2/2016 17:00,,,Plenary,,,mon-afternoon-plenary
-Reception,,5/2/2016 17:00,5/2/2016 18:00,,,Social Event,,,mon-reception
-Dine Around,,5/2/2016 18:00,5/2/2016 21:00,,,Social Event,,,mon-dine-around
-ABM Innovations: Part 1 (A Day in the Life),,5/3/2016 8:30,5/3/2016 10:00,,,Podium,,,tue-a1-1
-Unique Applications for Travel Models (Do You Want to Know a Secret?),,5/3/2016 8:30,5/3/2016 10:00,,,Podium,,,tue-a1-2
-Building a Model (We Can Work it Out),,5/3/2016 8:30,5/3/2016 10:00,,,"Podium, Discussion",,,tue-a1-3
-Innovations in TDM and Integrated Models (All Together Now),,5/3/2016 10:30,5/3/2016 12:00,,,Lightning Talks,,,tue-a2-1
-Modeling Changing Trends (I Should Have Known Better),,5/3/2016 10:30,5/3/2016 12:00,,,Podium,,,tue-a2-2
-Smartphones and Household Travel Surveys,,5/3/2016 10:30,5/3/2016 12:00,,,Workshop,,,tue-a2-3
-Lunch,,5/3/2016 12:00,5/3/2016 13:30,,,Lunch,,,tue-lunch
-ABM Innovations: Part 2 (A Hard Day's Night),,5/3/2016 13:30,5/3/2016 15:00,,,Podium,,,tue-p1-1
-Moving Innovations to Practice,,5/3/2016 13:30,5/3/2016 15:00,,,Discussion,,,tue-p1-2
-"Using R for Data Cleaning, Munging, Visualizing, and Modeling",,5/3/2016 13:30,5/3/2016 15:00,,,Tutorial,,,tue-p1-3
-Afternoon Plenary,,5/3/2016 15:30,5/3/2016 17:00,,,Plenary,,,tue-afternoon-plenary
-B-Cycle (Bicycle Sharing) Tour,,5/3/2016 17:30,5/3/2016 20:00,,,Social Event,,,tue-bcycle-tour
-Integrated Demand & Network Models (Come Together),,5/4/2016 8:30,5/4/2016 10:00,,,Podium,,,wed-a1-1
-Future of Transportation and Active Transportation (Here Comes the Sun),,5/4/2016 8:30,5/4/2016 10:00,,,Lightning Talks,,,wed-a1-2
-Future of Travel Modeling Tools,,5/4/2016 8:30,5/4/2016 10:00,,,Discussion,,,wed-a1-3
-"Closing Session, Thank You, Awards",,5/4/2016 10:30,5/4/2016 12:00,,,Plenary,,,wed-closing
+Name (required),Description,Start Time (required),End Time (required),Location,Session Tracks,Filters,Moderator Speaker IDs,Speaker IDs,Link URLs,Session ID
+sample name,sample description,3/13/14 13:11,3/13/14 13:11,sample location,"Sample Track #1, Sample Track #2","Sample Filter #1, Sample Filter #2",,"Speaker Unique ID #1, Speaker Unique ID #2","http://doubledutch.me, http://google.com",Unique Session ID
+C10 Integrated ABM-DTA Models (Part 1: Theoretical Considerations),,5/1/16 13:00,5/1/16 14:45,,,Workshop,lei-zhang,,,sun-p1-1
+Strategic Analysis Tools for Scenario Planning (SHRP C16),,5/1/16 13:00,5/1/16 14:45,,,Workshop,"eric-pihl,tara-weidner",,,sun-p1-2
+Travel Analysis and Modeling using Python,,5/1/16 13:00,5/1/16 14:45,,,Tutorial,"elizabeth-sall,billy-charlton",,,sun-p1-3
+C10 Integrated Models (Part 2: Application Perspectives),,5/1/16 15:00,5/1/16 17:00,,,Workshop,lei-zhang,,,sun-p2-1
+C20 Behavior-based Freight Modeling Tools,,5/1/16 15:00,5/1/16 17:00,,,Workshop,birat-pandey,,,sun-p2-2
+Tools for collaborative open source model development: GitHub and beyond!,,5/1/16 15:00,5/1/16 17:00,,,Tutorial,"elizabeth-sall,billy-charlton",,,sun-p2-3
+Downtown Denver walking and history tour,,5/1/16 17:30,5/1/16 19:00,,,Social Event,,,,sun-walking-tour
+Opening Session,,5/2/16 8:30,5/2/16 10:00,,,Plenary,"jen-duthie,david-kurth",,,mon-opening-session
+Mode Choice Modeling (Magical Mystery Tour),,5/2/16 10:30,5/2/16 12:00,,,Podium,peter-vovsha,,,mon-a2-1
+Uncertainty in Modeling (Tomorrow Never Knows),,5/2/16 10:30,5/2/16 12:00,,,Podium,siva-srinivasan,,,mon-a2-2
+Big Data (Across the Universe),,5/2/16 10:30,5/2/16 12:00,,,Podium,greg-macfarlane,,,mon-a2-3
+Regional Transportation District Tour,,5/2/16 12:15,5/2/16 13:15,,,Social Event,,,,mon-rtd-tour
+Lunch,,5/2/16 12:00,5/2/16 13:30,,,Lunch,,,,mon-lunch
+Innovations with Transit Data (Why Don't We Do It in the Road?),,5/2/16 13:30,5/2/16 15:00,,,Podium,bruce-griesenbeck,,,mon-p1-1
+Connected Vehicles,,5/2/16 13:30,5/2/16 15:00,,,Workshop,"rachel-copperman,siva-srinivasan",,,mon-p1-2
+Travel Surveys and Big Data (Ask Me Why),,5/2/16 13:30,5/2/16 15:00,,,Lightning Talks,"julie-dunbar,rick-donnelly",,,mon-p1-3
+Afternoon Plenary,,5/2/16 15:30,5/2/16 17:00,,,Plenary,"jen-duthie,david-kurth",,,mon-afternoon-plenary
+Reception,,5/2/16 17:00,5/2/16 18:00,,,Social Event,,,,mon-reception
+Dine Around,,5/2/16 18:00,5/2/16 21:00,,,Social Event,,,,mon-dine-around
+ABM Innovations: Part 1 (A Day in the Life),,5/3/16 8:30,5/3/16 10:00,,,Podium,mark-bradley,,,tue-a1-1
+Unique Applications for Travel Models (Do You Want to Know a Secret?),,5/3/16 8:30,5/3/16 10:00,,,Podium,liza-amar,,,tue-a1-2
+Building a Model (We Can Work it Out),,5/3/16 8:30,5/3/16 10:00,,,"Podium, Discussion",erik-sabina,,,tue-a1-3
+Innovations in TDM and Integrated Models (All Together Now),,5/3/16 10:30,5/3/16 12:00,,,Lightning Talks,"billy-charlton,rick-donnelly",,,tue-a2-1
+Modeling Changing Trends (I Should Have Known Better),,5/3/16 10:30,5/3/16 12:00,,,Podium,michael-mahut,,,tue-a2-2
+Smartphones and Household Travel Surveys,,5/3/16 10:30,5/3/16 12:00,,,Workshop,"stacey-bricka,rachel-copperman",,,tue-a2-3
+Lunch,,5/3/16 12:00,5/3/16 13:30,,,Lunch,,,,tue-lunch
+ABM Innovations: Part 2 (A Hard Day's Night),,5/3/16 13:30,5/3/16 15:00,,,Podium,karthik-konduri,,,tue-p1-1
+Moving Innovations to Practice,,5/3/16 13:30,5/3/16 15:00,,,Discussion,"david-ory,stephen-lawe",,,tue-p1-2
+"Using R for Data Cleaning, Munging, Visualizing, and Modeling",,5/3/16 13:30,5/3/16 15:00,,,Tutorial,"josie-kressner,greg-macfarlane",,,tue-p1-3
+Afternoon Plenary,,5/3/16 15:30,5/3/16 17:00,,,Plenary,"jen-duthie,david-kurth",,,tue-afternoon-plenary
+B-Cycle (Bicycle Sharing) Tour,,5/3/16 17:30,5/3/16 20:00,,,Social Event,,,,tue-bcycle-tour
+Integrated Demand & Network Models (Come Together),,5/4/16 8:30,5/4/16 10:00,,,Podium,guy-rousseau,,,wed-a1-1
+Future of Transportation and Active Transportation (Here Comes the Sun),,5/4/16 8:30,5/4/16 10:00,,,Lightning Talks,"greg-giaimo,rick-donnelly",,,wed-a1-2
+Future of Travel Modeling Tools,,5/4/16 8:30,5/4/16 10:00,,,Discussion,"david-ory,elizabeth-sall,billy-charlton,joan-walker",,,wed-a1-3
+"Closing Session, Thank You, Awards",,5/4/16 10:30,5/4/16 12:00,,,Plenary,"jen-duthie,david-kurth",,,wed-closing
