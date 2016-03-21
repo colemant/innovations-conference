@@ -1,106 +1,171 @@
-First Name (required),Last Name (required),Title,Company,Description,Image URL,Website,Twitter Handle,Facebook URL,LinkedIn URL,Session IDs,Attendee ID,Speaker ID
-sample name,sample name,Chief Marketing Officer,DoubleDutch,sample description,http://doubledutch.me/images/team/nicholas-clark.jpg,https://doubledutch.me,doubledutch,https://www.facebook.com/playDoubleDutch,https://www.linkedin.com/company/doubledutch,"Session Unique ID #1, Session Unique ID #2",Attendee Unique ID,Unique Speaker ID
-Lei,Zhang,,University of Maryland,,,,,,,,,lei-zhang
-Eric,Pihl,,Federal Highways Administration,,,,,,,,,eric-pihl
-Tara,Weidner,,Oregon Department of Transportation,,,,,,,,,tara-weidner
-Elizabeth,Sall,,Urban Labs LLC,,,,,,,,,elizabeth-sall
-Billy,Charlton,,Puget Sound Regional Council,,,,,,,,,billy-charlton
-Birat,Pandey,,Federal Highways Administration,,,,,,,,,birat-pandey
-Greg,Giaimo,,Ohio Department of Transportation,,,,,,,,,greg-giaimo
-Rebekah,Anderson,,Ohio Department of Transportation,,,,,,,,,rebekah-anderson
-David,Ory,,Metropolitan Transportation Commission,,,,,,,,,david-ory
-Jen,Duthie,,University of Texas,,,,,,,,,jen-duthie
-David,Kurth,,Cambridge Systematics,,,,,,,,,david-kurth
-Peter,Vovsha,,WSP Parsons Brinckerhoff,,,,,,,,,peter-vovsha
-Ramin,Shabanpour Anbarani,,University of Illinois at Chicago,,,,,,,,,ramin-shabanpour-anbarani
-Mahmoud,Javanmarti,,University of Illinois at Chicago,,,,,,,,,mahmoud-javanmarti
-Mehran,Fasihozaman Langerudi,,University of Illinois at Chicago,,,,,,,,,mehran-fasihozaman-langerudi
-Abolfazl,Mohammadian,,University of Illinois at Chicago,,,,,,,,,abolfazl-mohammadian
-Mark,Bradley,,RSG,,,,,,,,,mark-bradley
-Greg,Spitz,,RSG,,,,,,,,,greg-spitz
-Matthew,Coogan,,New England Transportation Institute,,,,,,,,,matthew-coogan
-James,Hicks,,WSP Parsons Brinckerhoff,,,,,,,,,james-hicks
-Guarav,Vyas,,WSP Parsons Brinckerhoff,,,,,,,,,guarav-vyas
-Vladimir,Livshits,,Maricopa Association of Governments,,,,,,,,,vladimir-livshits
-John,Gliebe,,RSG,,,,,,,,,john-gliebe
-Jason,Lemp,,Cambridge Systematics,,,,,,,,,jason-lemp
-Rachel,Copperman,,Cambridge Systematics,,,,,,,,,rachel-copperman
-Boris,Lipkin,,California High Speed Rail Authority,,,,,,,,,boris-lipkin
-Matthew,Henley,,WSP Parsons Brinckerhoff,,,,,,,,,matthew-henley
-Noel,Berry,,WSP Parsons Brinckerhoff,,,,,,,,,noel-berry
-Brian,Gregor,,Oregon Systems Analytics,,,,,,,,,brian-gregor
-Haizhong,Wang,,Oregon State University,,,,,,,,,haizhong-wang
-Alex,Bettinardi,,Oregon Department of Transportation,,,,,,,,,alex-bettinardi
-Jeremy,Raw,,Federal Highways Administration,,,,,,,,,jeremy-raw
-Arthur,Huang,,Tarleton University,,,,,,,,,arthur-huang
-Luciano,Gallegos,,University of Southern California,,,,,,,,,luciano-gallegos
-Kristina,Lerman,,University of Southern California,,,,,,,,,kristina-lerman
-Vince,Bernadin,,RSG,,,,,,,,,vince-bernadin
-Nazneen,Ferdous,,RSG,,,,,,,,,nazneen-ferdous
-Hadi,Sadrasadat,,RSG,,,,,,,,,hadi-sadrasadat
-Chin-Cheng,Chen,,State of Tennessee,,,,,,,,,chin-cheng-chen
-Kanchana,Nanduri,,Caliper Corporation,,,,,,,,,kanchana-nanduri
-Josephine,Kressner,,Transport Foundary,,,,,,,,,josephine-kressner
-Greg,Macfarlane,,WSP Parsons Brinckerhoff,,,,,,,,,greg-macfarlane
-Leta,Huntsinger,,WSP Parsons Brinckerhoff,,,,,,,,,leta-huntsinger
-Rick,Donnelly,,WSP Parsons Brinckerhoff,,,,,,,,,rick-donnelly
-Bruce,Griesenbeck,,Sacramento Council of Governments,,,,,,,,,bruce-griesenbeck
-Sabyasachee,Mishra,,University of Memphis,,,,,,,,,sabyasachee-mishra
-Timothy,Welch,,Georgia Tech,,,,,,,,,timothy-welch
-Mihalis,Golias,,University of Memphis,,,,,,,,,mihalis-golias
-Amit,Kumar,,Georgia Tech,,,,,,,,,amit-kumar
-Juan,Manuel Mayoral,,Universidad Nacional Autonoma de Mexico,,,,,,,,,juan-manuel-mayoral
-Azucena,Roman de la Sancha,,Universidad Nacional Autonoma de Mexico,,,,,,,,,azucena-roman-de-la-sancha
-Luis,Roman,,Universidad Nacional Autonoma de Mexico,,,,,,,,,luis-roman
-David,Roden,,AECOM,,,,,,,,,david-roden
-Martin,Milkovitis,,Cambridge Systematics,,,,,,,,,martin-milkovitis
-Tom,Rossi,,Cambridge Systematics,,,,,,,,,tom-rossi
-Scott,Peterson,,Boston Region MPO,,,,,,,,,scott-peterson
-Stacey,Bricka,,ETC Institute,,,,,,,,,stacey-bricka
-Adela,Santos,,Federal Highways Administration,,,,,,,,,adela-santos
-Alireza,Khani,,University of Minnesota,,,,,,,,,alireza-khani
-Tyler,Behuhn,,Kimley-Horn,,,,,,,,,tyler-behuhn
-Drew,Cooper,,San Francisco County Transportation Authority,,,,,,,,,drew-cooper
-Stefan,Coe,,Puget Sound Regional Council,,,,,,,,,stefan-coe
-Rajesh,Paleti,,Old Dominion Universitoy,,,,,,,,,rajesh-paleti
-Naveen,Eluru,,University of Central Florida,,,,,,,,,naveen-eluru
-Karthik,Konduri,,University of Connecticut,,,,,,,,,karthik-konduri
-Asif,Rehan,,University of Connecticut,,,,,,,,,asif-rehan
-Paul,Morris,,SRF Conluting Group,,,,,,,,,paul-morris
-Daniel,Beagan,,Cambridge Systematics,,,,,,,,,daniel-beagan
-Cemal,Ayvalik,,Cambridge Systematics,,,,,,,,,cemal-ayvalik
-Kimon,Proussaloglou,,Cambridge Systematics,,,,,,,,,kimon-proussaloglou
-Menglin,Wang,,Cambridge Systematics,,,,,,,,,menglin-wang
-Jeffrey,Sriver,,City of Chicago,,,,,,,,,jeffrey-sriver
-Keith,Privett,,City of Chicago,,,,,,,,,keith-privett
-Andrew,Campbell,,San Francisco County Transportation Authority,,,,,,,,,andrew-campbell
-Jonathan,Ehrlich,,Metropolitan Council,,,,,,,,,jonathan-ehrlich
-Dennis,Farmer,,Metropolitan Council,,,,,,,,,dennis-farmer
-Krishnan,Viswanathan,,Cambridge Systematics,,,,,,,,,krishnan-viswanathan
-Anurag,Komanduri,,Cambridge Systematics,,,,,,,,,anurag-komanduri
-Daniel,Tischler,,San Francisco County Transportation Authority,,,,,,,,,daniel-tischler
-Mason,Gemar,,University of Texas,,,,,,,,,mason-gemar
-Natilia,Ruiz Juri,,University of Texas,,,,,,,,,natilia-ruiz-juri
-Kenneth,Perrine,,University of Texas,,,,,,,,,kenneth-perrine
-Gregory,Abram,,University of Texas,,,,,,,,,gregory-abram
-Rion,Dooley,,University of Texas,,,,,,,,,rion-dooley
-Patricia,Hu,Director,Bureau of Transportation Statistics,,https://cms.dot.gov/sites/dot.gov/files/styles/right_rail_image/public/Patricia%20Hu.jpg?itok=-D0-ebq-,https://cms.dot.gov/government/traffic-records/patricia-s-hu,,,,,,patricia-hu
-Daehyun,You,,Georgia Tech,,,,,,,,,daehyun-you
-Venu,Garikapati,,Georgia Tech,,,,,,,,,venu-garikapati
-Ramin,Pendyala,,Georgia Tech,,,,,,,,,ramin-pendyala
-Chandra,Bhat,,University of Texas,,,,,,,,,chandra-bhat
-Sebastian,Astroza,,University of Texas,,,,,,,,,sebastian-astroza
-Abdul,Pinjari,,University of South Florida,,,,,,,,,abdul-pinjari
-Danny,Givon,,Jerusalem Transportation Master Plan Team,,,,,,,,,danny-givon
-Yehoshua,Birotker,,Jerusalem Transportation Master Plan Team,,,,,,,,,yehoshua-birotker
-Tushar,Patel,,AECOM,,,,,,,,,tushar-patel
-Jiji,Kottommannil,,AECOM,,,,,,,,,jiji-kottommannil
-Aaron,Sussman,,Mid-Region Council of Governments,,,,,,,,,aaron-sussman
-Michael,Reilly,,Metropolitan Transportation Commission,,,,,,,,,michael-reilly
-Becky,Knudson,,Oregon Department of Transportation,,,,,,,,,becky-knudson
-Tudor,Mocanu,,German Aerospace Center,,,,,,,,,tudor-mocanu
-Christian,Winkler,,German Aerospace Center,,,,,,,,,christian-winkler
-Maren,Outwater,,RSG,,,,,,,,,maren-outwater
-Jeff,Doyle,,RSG,,,,,,,,,jeff-doyle
-Diana,Dorinson,,Transportation Analytics,,,,,,,,,diana-dorinson
-Joe,Castiglione,,San Francisco County Transportation Authority,,,,,,,,,joe-castiglione
+First Name (required),Last Name (required),Title,Company,Description,Image URL,Website,Twitter Handle,Facebook URL,LinkedIn URL,Session IDs,Attendee ID,Speaker ID,
+sample name,sample name,Chief Marketing Officer,DoubleDutch,sample description,http://doubledutch.me/images/team/nicholas-clark.jpg,https://doubledutch.me,doubledutch,https://www.facebook.com/playDoubleDutch,https://www.linkedin.com/company/doubledutch,"Session Unique ID #1, Session Unique ID #2",Attendee Unique ID,Unique Speaker ID,"SUBSTITUTE(CONCATENATE(LOWER(A3),"" "",LOWER(B3)),"" "",""-"")"
+Lei,Zhang,,University of Maryland,,,,,,,,,lei-zhang,
+Eric,Pihl,,Federal Highways Administration,,,,,,,,,eric-pihl,
+Tara,Weidner,,Oregon Department of Transportation,,,,,,,,,tara-weidner,
+Elizabeth,Sall,,Urban Labs LLC,,,,,,,,,elizabeth-sall,
+Billy,Charlton,,Puget Sound Regional Council,,,,,,,,,billy-charlton,
+Birat,Pandey,,Federal Highways Administration,,,,,,,,,birat-pandey,
+Greg,Giaimo,,Ohio Department of Transportation,,,,,,,,,greg-giaimo,
+Rebekah,Anderson,,Ohio Department of Transportation,,,,,,,,,rebekah-anderson,
+David,Ory,,Metropolitan Transportation Commission,,,,,,,,,david-ory,
+Jen,Duthie,,University of Texas,,,,,,,,,jen-duthie,
+David,Kurth,,Cambridge Systematics,,,,,,,,,david-kurth,
+Peter,Vovsha,,WSP Parsons Brinckerhoff,,,,,,,,,peter-vovsha,
+Ramin,Shabanpour Anbarani,,University of Illinois at Chicago,,,,,,,,,ramin-shabanpour-anbarani,
+Mahmoud,Javanmardi,,University of Illinois at Chicago,,,,,,,,,mahmoud-javanmardi,
+Mehran,Fasihozaman Langerudi,,University of Illinois at Chicago,,,,,,,,,mehran-fasihozaman-langerudi,
+Abolfazl,Mohammadian,,University of Illinois at Chicago,,,,,,,,,abolfazl-mohammadian,
+Mark,Bradley,,RSG,,,,,,,,,mark-bradley,
+Greg,Spitz,,RSG,,,,,,,,,greg-spitz,
+Matthew,Coogan,,New England Transportation Institute,,,,,,,,,matthew-coogan,
+James,Hicks,,WSP Parsons Brinckerhoff,,,,,,,,,james-hicks,
+Guarav,Vyas,,WSP Parsons Brinckerhoff,,,,,,,,,guarav-vyas,
+Vladimir,Livshits,,Maricopa Association of Governments,,,,,,,,,vladimir-livshits,
+John,Gliebe,,RSG,,,,,,,,,john-gliebe,
+Jason,Lemp,,Cambridge Systematics,,,,,,,,,jason-lemp,
+Rachel,Copperman,,Cambridge Systematics,,,,,,,,,rachel-copperman,
+Boris,Lipkin,,California High Speed Rail Authority,,,,,,,,,boris-lipkin,
+Matthew,Henley,,WSP Parsons Brinckerhoff,,,,,,,,,matthew-henley,
+Noel,Berry,,WSP Parsons Brinckerhoff,,,,,,,,,noel-berry,
+Brian,Gregor,,Oregon Systems Analytics,,,,,,,,,brian-gregor,
+Haizhong,Wang,,Oregon State University,,,,,,,,,haizhong-wang,
+Alex,Bettinardi,,Oregon Department of Transportation,,,,,,,,,alex-bettinardi,
+Jeremy,Raw,,Federal Highways Administration,,,,,,,,,jeremy-raw,
+Arthur,Huang,,Tarleton University,,,,,,,,,arthur-huang,
+Luciano,Gallegos,,University of Southern California,,,,,,,,,luciano-gallegos,
+Kristina,Lerman,,University of Southern California,,,,,,,,,kristina-lerman,
+Vince,Bernadin,,RSG,,,,,,,,,vince-bernadin,
+Nazneen,Ferdous,,RSG,,,,,,,,,nazneen-ferdous,
+Hadi,Sadrasadat,,RSG,,,,,,,,,hadi-sadrasadat,
+Chin-Cheng,Chen,,State of Tennessee,,,,,,,,,chin-cheng-chen,
+Kanchana,Nanduri,,Caliper Corporation,,,,,,,,,kanchana-nanduri,
+Josephine,Kressner,,Transport Foundary,,,,,,,,,josephine-kressner,
+Greg,Macfarlane,,WSP Parsons Brinckerhoff,,,,,,,,,greg-macfarlane,
+Leta,Huntsinger,,WSP Parsons Brinckerhoff,,,,,,,,,leta-huntsinger,
+Rick,Donnelly,,WSP Parsons Brinckerhoff,,,,,,,,,rick-donnelly,
+Bruce,Griesenbeck,,Sacramento Council of Governments,,,,,,,,,bruce-griesenbeck,
+Sabyasachee,Mishra,,University of Memphis,,,,,,,,,sabyasachee-mishra,
+Timothy,Welch,,Georgia Tech,,,,,,,,,timothy-welch,
+Mihalis,Golias,,University of Memphis,,,,,,,,,mihalis-golias,
+Amit,Kumar,,Georgia Tech,,,,,,,,,amit-kumar,
+Juan,Manuel Mayoral,,Universidad Nacional Autonoma de Mexico,,,,,,,,,juan-manuel-mayoral,
+Azucena,Roman de la Sancha,,Universidad Nacional Autonoma de Mexico,,,,,,,,,azucena-roman-de-la-sancha,
+Luis,Roman,,Universidad Nacional Autonoma de Mexico,,,,,,,,,luis-roman,
+David,Roden,,AECOM,,,,,,,,,david-roden,
+Martin,Milkovitis,,Cambridge Systematics,,,,,,,,,martin-milkovitis,
+Tom,Rossi,,Cambridge Systematics,,,,,,,,,tom-rossi,
+Scott,Peterson,,Boston Region MPO,,,,,,,,,scott-peterson,
+Stacey,Bricka,,ETC Institute,,,,,,,,,stacey-bricka,
+Adela,Santos,,Federal Highways Administration,,,,,,,,,adela-santos,
+Alireza,Khani,,University of Minnesota,,,,,,,,,alireza-khani,
+Tyler,Behuhn,,Kimley-Horn,,,,,,,,,tyler-behuhn,
+Drew,Cooper,,San Francisco County Transportation Authority,,,,,,,,,drew-cooper,
+Stefan,Coe,,Puget Sound Regional Council,,,,,,,,,stefan-coe,
+Rajesh,Paleti,,Old Dominion Universitoy,,,,,,,,,rajesh-paleti,
+Naveen,Eluru,,University of Central Florida,,,,,,,,,naveen-eluru,
+Karthik,Konduri,,University of Connecticut,,,,,,,,,karthik-konduri,
+Asif,Rehan,,University of Connecticut,,,,,,,,,asif-rehan,
+Paul,Morris,,SRF Conluting Group,,,,,,,,,paul-morris,
+Daniel,Beagan,,Cambridge Systematics,,,,,,,,,daniel-beagan,
+Cemal,Ayvalik,,Cambridge Systematics,,,,,,,,,cemal-ayvalik,
+Kimon,Proussaloglou,,Cambridge Systematics,,,,,,,,,kimon-proussaloglou,
+Menglin,Wang,,Cambridge Systematics,,,,,,,,,menglin-wang,
+Jeffrey,Sriver,,City of Chicago,,,,,,,,,jeffrey-sriver,
+Keith,Privett,,City of Chicago,,,,,,,,,keith-privett,
+Andrew,Campbell,,San Francisco County Transportation Authority,,,,,,,,,andrew-campbell,
+Jonathan,Ehrlich,,Metropolitan Council,,,,,,,,,jonathan-ehrlich,
+Dennis,Farmer,,Metropolitan Council,,,,,,,,,dennis-farmer,
+Krishnan,Viswanathan,,Cambridge Systematics,,,,,,,,,krishnan-viswanathan,
+Anurag,Komanduri,,Cambridge Systematics,,,,,,,,,anurag-komanduri,
+Daniel,Tischler,,San Francisco County Transportation Authority,,,,,,,,,daniel-tischler,
+Mason,Gemar,,University of Texas,,,,,,,,,mason-gemar,
+Natilia,Ruiz Juri,,University of Texas,,,,,,,,,natilia-ruiz-juri,
+Kenneth,Perrine,,University of Texas,,,,,,,,,kenneth-perrine,
+Gregory,Abram,,University of Texas,,,,,,,,,gregory-abram,
+Rion,Dooley,,University of Texas,,,,,,,,,rion-dooley,
+Patricia,Hu,Director,Bureau of Transportation Statistics,,https://cms.dot.gov/sites/dot.gov/files/styles/right_rail_image/public/Patricia%20Hu.jpg?itok=-D0-ebq-,https://cms.dot.gov/government/traffic-records/patricia-s-hu,,,,,,patricia-hu,
+Daehyun,You,,Georgia Tech,,,,,,,,,daehyun-you,
+Venu,Garikapati,,Georgia Tech,,,,,,,,,venu-garikapati,
+Ramin,Pendyala,,Georgia Tech,,,,,,,,,ramin-pendyala,
+Chandra,Bhat,,University of Texas,,,,,,,,,chandra-bhat,
+Sebastian,Astroza,,University of Texas,,,,,,,,,sebastian-astroza,
+Abdul,Pinjari,,University of South Florida,,,,,,,,,abdul-pinjari,
+Danny,Givon,,Jerusalem Transportation Master Plan Team,,,,,,,,,danny-givon,
+Yehoshua,Birotker,,Jerusalem Transportation Master Plan Team,,,,,,,,,yehoshua-birotker,
+Tushar,Patel,,AECOM,,,,,,,,,tushar-patel,
+Jiji,Kottommannil,,AECOM,,,,,,,,,jiji-kottommannil,
+Aaron,Sussman,,Mid-Region Council of Governments,,,,,,,,,aaron-sussman,
+Michael,Reilly,,Metropolitan Transportation Commission,,,,,,,,,michael-reilly,
+Becky,Knudson,,Oregon Department of Transportation,,,,,,,,,becky-knudson,
+Tudor,Mocanu,,German Aerospace Center,,,,,,,,,tudor-mocanu,
+Christian,Winkler,,German Aerospace Center,,,,,,,,,christian-winkler,
+Maren,Outwater,,RSG,,,,,,,,,maren-outwater,
+Jeff,Doyle,,RSG,,,,,,,,,jeff-doyle,
+Diana,Dorinson,,Transportation Analytics,,,,,,,,,diana-dorinson,
+Joe,Castiglione,,San Francisco County Transportation Authority,,,,,,,,,joe-castiglione,
+Shailen,Bhatt,Executive Director,Colorado Department of Transportation,,https://www.codot.gov/about/assets/shailen-bhatt,https://www.codot.gov/about/executive-director,,,,,,shailen-bhatt,
+Siva,Srinivasan,,University of Florida,,,,,,,,,siva-srinivasan,
+Kavitha,Madu,,Indian Institute of Technology Madras,,,,,,,,,kavitha-madu,
+Karthik,Srinivasan,,Indian Institute of Technology Madras,,,,,,,,,karthik-srinivasan,
+R,Sivanandan,,Indian Institute of Technology Madras,,,,,,,,,r-sivanandan,
+Calin,Dan Morosan,,INRO,,,,,,,,,calin-dan-morosan,
+Michael,Florian,,INRO,,,,,,,,,michael-florian,
+Joseph,Zissman,,Cambridge Systematics,,,,,,,,,joseph-zissman,
+Joseph,Guerre,,Cambridge Systematics,,,,,,,,,joseph-guerre,
+Lisa,Zorn,,Metropolitan Transportation Commission,,,,,,,,,lisa-zorn,
+Steven,Trevino,,RSG,,,,,,,,,steven-trevino,
+Richard,Walker,,Portland METRO,,,,,,,,,richard-walker,
+Benjamin,Gruswitz,,Delaware Valley Regional Planning Commission,,,,,,,,,benjamin-gruswitz,
+Reuben,MacMartin,,Delaware Valley Regional Planning Commission,,,,,,,,,reuben-macmartin,
+Bhargava,Sana,,San Francisco County Transportation Authority,,,,,,,,,bhargava-sana,
+Yanping,Zhang,,Durham Chapel Hill Carrboro MPO,,,,,,,,,yanping-zhang,
+Felix,Nwoko,,Durham Chapel Hill Carrboro MPO,,,,,,,,,felix-nwoko,
+Erich,Rentz,,RSG,,,,,,,,,erich-rentz,
+Colin,Smith,,RSG,,,,,,,,,colin-smith,
+Liming,Wang,,Portland State University,,,,,,,,,liming-wang,
+Peter,Davidson,,TransPosition,,,,,,,,,peter-davidson,
+Anabelle,Spinoulas,,TransPosition,,,,,,,,,anabelle-spinoulas,
+Amire,Mossek,,Jerusalem Transportation Master Plan Team,,,,,,,,,amire-mossek,
+Eitan,Bluer,,Jerusalem Transportation Master Plan Team,,,,,,,,,eitan-bluer,
+Elizabeth,Greene,,RSG,,,,,,,,,elizabeth-greene,
+Robert,Wertman,,Heartland MPO,,,,,,,,,robert-wertman,
+Suzanne,Childress,,Puget Sound Regional Council,,,,,,,,,suzanne-childress,
+Arun,Kuppam,,Cambridge Systematics,,,,,,,,,arun-kuppam,
+Zachary,Patterson,,Concordia University,,,,,,,,,zachary-patterson,
+Joel,Freedman,,RSG,,,,,,,,,joel-freedman,
+Nagendra,Dakhar,,RSG,,,,,,,,,nagendra-dakhar,
+Wu,Sun,,San Diego Association of Governments,,,,,,,,,wu-sun,
+Rosella,Picado,,WSP Parsons Brinckerhoff,,,,,,,,,rosella-picado,
+Tim,Grose,,Cambridge Systematics,,,,,,,,,tim-grose,
+Ben,Stabler,,RSG,,,,,,,,,ben-stabler,
+Yegor,Malinovsky,,INRIX,,,,,,,,,yegor-malinovsky,
+Stephen,Lawe,,RSG,,,,,,,,,stephen-lawe,
+Eric,Miller,Professor,University of Toronto,,http://i1.wp.com/civil.engineering.utoronto.ca/wp-content/uploads/2015/08/24_2188095.jpg?zoom=2&resize=140%2C187,http://civil.engineering.utoronto.ca/staff/professors/eric-miller/,,,,,,eric-miller,
+Doug,Rex,,Denver Regional Council of Governments,,,,,,,,,doug-rex,
+Kermit,Weis,Retiree,Chicago Metropolitan Agency for Planning,,https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/097/09c/3342178.jpg,https://www.linkedin.com/in/kermit-wies-7a93a128,,,,,,kermit-weis,
+Guy,Rousseau,,Atlanta Regional Council,,,,,,,,,guy-rousseau,
+Jackson,Archer,,University of Texas,,,,,,,,,jackson-archer,
+Michael,Mahut,,INRO,,,,,,,,,michael-mahut,
+Xuesong,Zhou,,Arizona State University,,,,,,,,,xuesong-zhou,
+Brice,Nichols,,Puget Sound Regional Council,,,,,,,,,brice-nichols,
+Alan,Horowitz,,AJH Associates,,,,,,,,,alan-horowitz,
+Leah,Flake,,RSG,,,,,,,,,leah-flake,
+Alejandro,Henao,,University of Colorado Denver,,,,,,,,,alejandro-henao,
+Tim,Padgett,,Kimley-Horn,,,,,,,,,tim-padgett,
+Zhuyun,Gu,,Cambridge Systematics,,,,,,,,,zhuyun-gu,
+Daniel,Engelberg,,University of Maryland,,,,,,,,,daniel-engelberg,
+Erdogan,Sevgi,,University of Maryland,,,,,,,,,erdogan-sevgi,
+Di,Yang,,University of Maryland,,,,,,,,,di-yang,
+Harulyan,Hahumyan,,University College Dublin,,,,,,,,,harulyan-hahumyan,
+Rolf,Moeckel,,Technical University Munich,,,,,,,,,rolf-moeckel,
+Fred,Ducca,,University of Maryland,,,,,,,,,fred-ducca,
+Gerrit,Knapp,,University of Maryland,,,,,,,,,gerrit-knapp,
+Uri,Avin,,University of Maryland,,,,,,,,,uri-avin,
+Scott,Thompson Graves,,Whitman Requardt and Associates,,,,,,,,,scott-thompson-graves,
+Michael,DuRoss,,Delaware Department of Transportation,,,,,,,,,michael-duross,
+Li,Li,,Whitman Requardt and Associates,,,,,,,,,li-li,
+Ashley,Tracy,,Whitman Requardt and Associates,,,,,,,,,ashley-tracy,
+Feng,Liu,,Cambridge Systematics,,,,,,,,,feng-liu,
+John,Gibb,,DKS Associates,,,,,,,,,john-gibb,
+Chetan,Joshi,,PTV America,,,,,,,,,chetan-joshi,
