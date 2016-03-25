@@ -1,37 +1,146 @@
 Name (required),Description,Start Time (required),End Time (required),Location,Session Tracks,Filters,Moderator Speaker IDs,Speaker IDs,Link URLs,Session ID
-sample name,sample description,3/13/14 13:11,3/13/14 13:11,sample location,"Sample Track #1, Sample Track #2","Sample Filter #1, Sample Filter #2",,"Speaker Unique ID #1, Speaker Unique ID #2","http://doubledutch.me, http://google.com",Unique Session ID
-C10 Integrated ABM-DTA Models (Part 1: Theoretical Considerations),,5/1/16 13:00,5/1/16 14:45,,,Workshop,lei-zhang,,,sun-p1-1
-Strategic Analysis Tools for Scenario Planning (SHRP C16),,5/1/16 13:00,5/1/16 14:45,,,Workshop,"eric-pihl,tara-weidner",,,sun-p1-2
-Travel Analysis and Modeling using Python,,5/1/16 13:00,5/1/16 14:45,,,Tutorial,"elizabeth-sall,billy-charlton",,,sun-p1-3
-C10 Integrated Models (Part 2: Application Perspectives),,5/1/16 15:00,5/1/16 17:00,,,Workshop,lei-zhang,,,sun-p2-1
-C20 Behavior-based Freight Modeling Tools,,5/1/16 15:00,5/1/16 17:00,,,Workshop,birat-pandey,,,sun-p2-2
-Tools for collaborative open source model development: GitHub and beyond!,,5/1/16 15:00,5/1/16 17:00,,,Tutorial,"elizabeth-sall,billy-charlton",,,sun-p2-3
-Downtown Denver walking and history tour,,5/1/16 17:30,5/1/16 19:00,,,Social Event,,,,sun-walking-tour
-Opening Session,,5/2/16 8:30,5/2/16 10:00,,,Plenary,"jen-duthie,david-kurth",,,mon-opening-session
-Mode Choice Modeling (Magical Mystery Tour),,5/2/16 10:30,5/2/16 12:00,,,Podium,peter-vovsha,,,mon-a2-1
-Uncertainty in Modeling (Tomorrow Never Knows),,5/2/16 10:30,5/2/16 12:00,,,Podium,siva-srinivasan,,,mon-a2-2
-Big Data (Across the Universe),,5/2/16 10:30,5/2/16 12:00,,,Podium,greg-macfarlane,,,mon-a2-3
-Regional Transportation District Tour,,5/2/16 12:15,5/2/16 13:15,,,Social Event,,,,mon-rtd-tour
-Lunch,,5/2/16 12:00,5/2/16 13:30,,,Lunch,,,,mon-lunch
-Innovations with Transit Data (Why Don't We Do It in the Road?),,5/2/16 13:30,5/2/16 15:00,,,Podium,bruce-griesenbeck,,,mon-p1-1
-Connected Vehicles,,5/2/16 13:30,5/2/16 15:00,,,Workshop,"rachel-copperman,siva-srinivasan",,,mon-p1-2
-Travel Surveys and Big Data (Ask Me Why),,5/2/16 13:30,5/2/16 15:00,,,Lightning Talks,"julie-dunbar,rick-donnelly",,,mon-p1-3
-Afternoon Plenary,,5/2/16 15:30,5/2/16 17:00,,,Plenary,"jen-duthie,david-kurth",,,mon-afternoon-plenary
-Reception,,5/2/16 17:00,5/2/16 18:00,,,Social Event,,,,mon-reception
-Dine Around,,5/2/16 18:00,5/2/16 21:00,,,Social Event,,,,mon-dine-around
-ABM Innovations: Part 1 (A Day in the Life),,5/3/16 8:30,5/3/16 10:00,,,Podium,mark-bradley,,,tue-a1-1
-Unique Applications for Travel Models (Do You Want to Know a Secret?),,5/3/16 8:30,5/3/16 10:00,,,Podium,liza-amar,,,tue-a1-2
-Building a Model (We Can Work it Out),,5/3/16 8:30,5/3/16 10:00,,,"Podium, Discussion",erik-sabina,,,tue-a1-3
-Innovations in TDM and Integrated Models (All Together Now),,5/3/16 10:30,5/3/16 12:00,,,Lightning Talks,"billy-charlton,rick-donnelly",,,tue-a2-1
-Modeling Changing Trends (I Should Have Known Better),,5/3/16 10:30,5/3/16 12:00,,,Podium,michael-mahut,,,tue-a2-2
-Smartphones and Household Travel Surveys,,5/3/16 10:30,5/3/16 12:00,,,Workshop,"stacey-bricka,rachel-copperman",,,tue-a2-3
-Lunch,,5/3/16 12:00,5/3/16 13:30,,,Lunch,,,,tue-lunch
-ABM Innovations: Part 2 (A Hard Day's Night),,5/3/16 13:30,5/3/16 15:00,,,Podium,karthik-konduri,,,tue-p1-1
-Moving Innovations to Practice,,5/3/16 13:30,5/3/16 15:00,,,Discussion,"david-ory,stephen-lawe",,,tue-p1-2
-"Using R for Data Cleaning, Munging, Visualizing, and Modeling",,5/3/16 13:30,5/3/16 15:00,,,Tutorial,"josie-kressner,greg-macfarlane",,,tue-p1-3
-Afternoon Plenary,,5/3/16 15:30,5/3/16 17:00,,,Plenary,"jen-duthie,david-kurth",,,tue-afternoon-plenary
-B-Cycle (Bicycle Sharing) Tour,,5/3/16 17:30,5/3/16 20:00,,,Social Event,,,,tue-bcycle-tour
-Integrated Demand & Network Models (Come Together),,5/4/16 8:30,5/4/16 10:00,,,Podium,guy-rousseau,,,wed-a1-1
-Future of Transportation and Active Transportation (Here Comes the Sun),,5/4/16 8:30,5/4/16 10:00,,,Lightning Talks,"greg-giaimo,rick-donnelly",,,wed-a1-2
-Future of Travel Modeling Tools,,5/4/16 8:30,5/4/16 10:00,,,Discussion,"david-ory,elizabeth-sall,billy-charlton,joan-walker",,,wed-a1-3
-"Closing Session, Thank You, Awards",,5/4/16 10:30,5/4/16 12:00,,,Plenary,"jen-duthie,david-kurth",,,wed-closing
+sample name,sample description,3/13/2014 13:11,3/13/2014 13:11,sample location,"Sample Track #1, Sample Track #2","Sample Filter #1, Sample Filter #2",,"Speaker Unique ID #1, Speaker Unique ID #2","http://doubledutch.me, http://google.com",Unique Session ID
+C10 Integrated ABM-DTA Models (Part 1: Theoretical Considerations),"Integration of advanced Activity-Based
+Models (ABMs) of travel demand
+with network simulation tools such
+as Dynamic Traffic Assignment (DTA)
+is considered as one of the important
+strategic directions in our profession.
+Recently completed pioneering SHRP
+C10 projects for Sacramento, CA and
+Jacksonville, FL have brought a first
+valuable experience with ABM-DTA
+integration, proved feasibility of such an
+integrated model, as well as portrayed
+some important modeling and computational
+issues that have to be resolved
+before the new generation of integrated
+models could be recommended for a
+wide use in practice. In 2014-2015,
+several follow-up SHRP C10 projects
+were started in parallel with different
+ABM and DTA platforms being integrated,
+as well as several MPO-sponsored
+ABM-DTA integration projects. In some
+of these projects, the original concept
+of ABM-DTA integration was extended
+to incorporate the transit side (both
+vehicle and passenger movements)
+in a microsimulation fashion as well.
+The purpose of Part 1 of this workshop
+is to bring a wide audience of researchers
+and practitioners together to discuss
+the recent progress on the ongoing
+SHRP C10 projects, theoretical issues
+encountered, and innovative methods
+for integrating ABM and DTA.",5/1/2016 13:00,5/1/2016 14:45,,,"Workshop, Session",lei-zhang,,,sun-p1-1
+Strategic Analysis Tools for Scenario Planning (SHRP C16),"A network of regional agencies with the
+support of the National Association of
+Regional Councils (NARC) and Federal
+Highway Administration (FHWA), has
+come together to accelerate the adoption
+and deployment of scenario planning
+tools. The goal of these efforts are
+to lower the barriers to entry, set strong
+guidelines for high-quality data and applications,
+design an effective delivery
+network for getting planning support
+systems up and running and provide
+technical assistance on adopting and
+improving the use of strategic planning
+methods for scenario planning.
+The workshop will offer an overview
+of techniques currently in use by state
+and local planning agencies, followed by
+an introduction to recently developed
+predictive strategic planning tools. A
+panel discussion will follow that will
+seek to identify barriers and strategies
+for improving analytical practices
+used in scenario planning to aide in the
+development a roadmap for increasing
+adoption.
+Panelists: Eric",5/1/2016 13:00,5/1/2016 14:45,,,"Workshop, Session","eric-pihl,tara-weidner",,,sun-p1-2
+Travel Analysis and Modeling using Python,"Interested in learning Python but don't
+know where to start? Join us for this
+laptops-open tutorial that starts with
+the very basics and builds the basic
+skills you will need to use Python for
+travel analysis.",5/1/2016 13:00,5/1/2016 14:45,,,"Tutorial, Session","elizabeth-sall,billy-charlton",,,sun-p1-3
+C10 Integrated Models (Part 2: Application Perspectives),"Part 2 brings together a wide audience
+of researchers and practitioners
+together to discuss the recent progress
+on the ongoing SHRP C10 projects,
+practical issues encountered, practical
+aspects of preparation of the necessary
+inputs, as well as the potential for application
+of these new tools in practice.",5/1/2016 15:00,5/1/2016 17:00,,,"Workshop, Session",lei-zhang,,,sun-p2-1
+C20 Behavior-based Freight Modeling Tools,"Part 2 brings together a wide audience
+of researchers and practitioners
+together to discuss the recent progress
+on the ongoing SHRP C10 projects,
+practical issues encountered, practical
+aspects of preparation of the necessary
+inputs, as well as the potential for application
+of these new tools in practice.",5/1/2016 15:00,5/1/2016 17:00,,,"Workshop, Session",birat-pandey,,,sun-p2-2
+Tools for Collaborative Open Source Model Development: GitHub and beyond!,"Part 2 brings together a wide audience
+of researchers and practitioners
+together to discuss the recent progress
+on the ongoing SHRP C10 projects,
+practical issues encountered, practical
+aspects of preparation of the necessary
+inputs, as well as the potential for application
+of these new tools in practice.",5/1/2016 15:00,5/1/2016 17:00,,,"Tutorial, Session","elizabeth-sall,billy-charlton",,,sun-p2-3
+Downtown Denver walking and history tour,"Led by docents from Historic Denver Lower Downtown district
+Starts from Union Station – about 1 mile and 75 minutes long; A $12 cost per person (not part of registration fee); Groups of about 10 per docent",5/1/2016 17:30,5/1/2016 19:00,,,"Social Event, Session",,,,sun-walking-tour
+Opening Session,,5/2/2016 8:30,5/2/2016 10:00,,,"Plenary, Session",,,,mon-opening-session
+Welcome and Introductions,,,,,,"Plenary, Presentation","jen-duthie,david-kurth",,,mon-opening-session-a
+Promoting and Accelerating Collaborations between Academia and the Practicing Profession: Opportunities and Pathways Forward,,,,,,"Plenary, Presentation, Honored Speaker",,chandra-bhat,,mon-opening-session-b
+Future Questions the Colorado Department of Transportation Needs to Address and Forecast Information Needed,,,,,,"Plenary, Presentation, Honored Speaker",,shailen-bhatt,,mon-opening-session-c
+Interactive Discussion: How to get the most out of ITM?,,,,,,"Plenary, Presentation",,jen-duthie,,mon-opening-session-d
+Mode Choice Modeling (Magical Mystery Tour),,5/2/2016 10:30,5/2/2016 12:00,,,"Podium, Session",peter-vovsha,,,mon-a2-1
+"Mode Choice Modelling Using Personalized Travel Time and Cost Data: Case Study of the Greater Chicago Area, USA",,,,,,"Podium, Presentation",,"ramin-shabanpour-anbarani, mahmoud-javanmarti, mehran-fasihozaman-langerudi, abolfazl-mohammadian",,mon-a2-1-a
+Scenario Analysis using a Mode Choice Model with Latent Attitudinal Variables,,,,,,"Podium, Presentation",,"mark-bradley, greg-spitz, matthew-coogan",,mon-a2-1-b
+Combinatorial Tour Mode Choice,,,,,,"Podium, Presentation",,"james-hicks, peter-vovsha, guarav-vyas, rebekah-anderson, greg-giaimo, vladimir-livshits",,mon-a2-1-c
+"Integrated Estimation of Transit Access Stop and Household Driver Choices in a Tour-based Mdoel of Commuter Mode Choices in Portland, Oregon",,,,,,"Podium, Presentation",,john-gliebe,,mon-a2-1-d
+Uncertainty in Modeling (Tomorrow Never Knows),,5/2/2016 10:30,5/2/2016 12:00,,,"Podium, Session",siva-srinivasan,,,mon-a2-2
+On Experimental Designs for Uncertainty Analysis of Travel Demand,,,,,,"Podium, Presentation",,"jason-lemp, rachel-copperman, david-kurth",,mon-a2-2-a
+Development of Risk Analysis Methodology for Quantifying the Uncertainty of Travel Demand Forecasts,,,,,,"Podium, Presentation",,"rachel-copperman, jason-lemp, david-kurth, boris-lipkin, matthew-henley, noel-berry",,mon-a2-2-b
+Modeling the Potential Consequences of New Transportation Technologies and Services using a Fuzzy Cognitive Map based Model,,,,,,"Podium, Presentation",,"brian-gregor, haizhong-wang, alex-bettinardi",,mon-a2-2-c
+Big Data (Across the Universe),,5/2/2016 10:30,5/2/2016 12:00,,,"Podium, Session",greg-macfarlane,,,mon-a2-3
+How Business Clusters and Destination Choice are Connected: A Model based on Social Media Data,,,,,,"Podium, Presentation",,"arthur-huang, luciano-gallegos, kristina-lerman",,mon-a2-3-a
+"Integration of the National Long Distance
+Passenger Model with the Tennessee Statewide Model and Calibration to AirSage Data",,,,,,"Podium, Presentation",,"vince-bernandin, nazneen-ferdous, hadi-sadrasat, chin-cheng-chen",,mon-a2-3-b
+Using Archived Real Time Travel Speed Data for Model Calibration and Validation,,,,,,"Podium, Presentation",,kanchana-nanduri,,mon-a2-3-c
+Using Passive Data to Build an Agile Tour-Based Model: A Case Study in Asheville,,,,,,"Podium, Presentation",,"josephine-kressner, greg-macfarlane, leta-huntsinger, rick-donnelly",,mon-a2-3-d
+Lunch,,5/2/2016 12:00,5/2/2016 13:30,,,"Lunch, Session",,,,mon-lunch
+Regional Transportation District Tour,"Limited to about 40 people; Attendees will need their free RTD passes; Led by RTD staff; Itinerary: Convention Center, Alameda Station, Union Station",5/2/2016 12:15,5/2/2016 13:15,,,"Social Event, Session",,,,mon-rtd-tour
+Innovations with Transit Data (Why Don't We Do It in the Road?),,5/2/2016 13:30,5/2/2016 15:00,,,"Podium, Session",bruce-griesenbeck,,,mon-p1-1
+Measuring Transit Connectivity using GTFS Data,,,,,,"Podium, Presentation",,"sabyasachee-mishra, afrid-sarkar, timothy-welch, mihalis-golias, amit-kumar",,mon-p1-1-a
+Efficiency Estimation of Transit Transfer Stations using Sustainability Criteria within the Framework of the Data Envelopment Analysis,,,,,,"Podium, Presentation",,"juan-manuel-mayoral, azucena-roman-de-la-sancha, luis-roman",,mon-p1-1-b
+On the Expansion of Transit On-board Passenger Surveys,,,,,,"Podium, Presentation",,david-ory,,mon-p1-1-c
+Congestion Reduction Benefits of Transit Projects in Northern Virginia,,,,,,"Podium, Presentation",,david-roden,,mon-p1-1-d
+Connected Vehicles,,5/2/2016 13:30,5/2/2016 15:00,,,"Workshop, Session","rachel-copperman,siva-srinivasan",,,mon-p1-2
+How can Activity-Based Models be used to represent the Impact of Connected/Autonomous Vehicles?,,,,,,"Workshop, Presentation, Five Minutes",,"martin-milkovits, tom-rossi",,mon-p1-2-a
+Quantifying the Uncertainty of Autonomous and Shared Use Vehicles,,,,,,"Workshop, Presentation, Five Minutes",,"jason-lemp, rachel-copperman, david-kurth",,mon-p1-2-b
+The Problems of Incorporating Future Transportation Services and Technology into Travel Demand Models,,,,,,"Workshop, Presentation, Five Minutes",,scott-peterson,,mon-p1-2-c
+Travel Surveys and Big Data (Ask Me Why),,5/2/2016 13:30,5/2/2016 15:00,,,"Lightning Talks, Session","julie-dunbar,rick-donnelly",,,mon-p1-3
+Afternoon Plenary,,5/2/2016 15:30,5/2/2016 17:00,,,"Plenary, Session","jen-duthie,david-kurth",,,mon-afternoon-plenary
+Reception,,5/2/2016 17:00,5/2/2016 18:00,,,"Social Event, Session",,,,mon-reception
+Dine Around,,5/2/2016 18:00,5/2/2016 21:00,,,"Social Event, Session",,,,mon-dine-around
+ABM Innovations: Part 1 (A Day in the Life),,5/3/2016 8:30,5/3/2016 10:00,,,"Podium, Session",mark-bradley,,,tue-a1-1
+Unique Applications for Travel Models (Do You Want to Know a Secret?),,5/3/2016 8:30,5/3/2016 10:00,,,"Podium, Session",liza-amar,,,tue-a1-2
+Building a Model (We Can Work it Out),,5/3/2016 8:30,5/3/2016 10:00,,,"Podium, Discussion, Session",erik-sabina,,,tue-a1-3
+Innovations in TDM and Integrated Models (All Together Now),,5/3/2016 10:30,5/3/2016 12:00,,,"Lightning Talks, Session","billy-charlton,rick-donnelly",,,tue-a2-1
+Modeling Changing Trends (I Should Have Known Better),,5/3/2016 10:30,5/3/2016 12:00,,,"Podium, Session",michael-mahut,,,tue-a2-2
+Smartphones and Household Travel Surveys,,5/3/2016 10:30,5/3/2016 12:00,,,"Workshop, Session","stacey-bricka,rachel-copperman",,,tue-a2-3
+Lunch,,5/3/2016 12:00,5/3/2016 13:30,,,"Lunch, Session",,,,tue-lunch
+ABM Innovations: Part 2 (A Hard Day's Night),,5/3/2016 13:30,5/3/2016 15:00,,,"Podium, Session",karthik-konduri,,,tue-p1-1
+Moving Innovations to Practice,,5/3/2016 13:30,5/3/2016 15:00,,,"Discussion, Session","david-ory,stephen-lawe",,,tue-p1-2
+"Using R for Data Cleaning, Munging, Visualizing, and Modeling",,5/3/2016 13:30,5/3/2016 15:00,,,"Tutorial, Session","josie-kressner,greg-macfarlane",,,tue-p1-3
+Afternoon Plenary,,5/3/2016 15:30,5/3/2016 17:00,,,"Plenary, Session","jen-duthie,david-kurth",,,tue-afternoon-plenary
+B-Cycle (Bicycle Sharing) Tour,,5/3/2016 17:30,5/3/2016 20:00,,,"Social Event, Session",,,,tue-bcycle-tour
+Integrated Demand & Network Models (Come Together),,5/4/2016 8:30,5/4/2016 10:00,,,"Podium, Session",guy-rousseau,,,wed-a1-1
+Future of Transportation and Active Transportation (Here Comes the Sun),,5/4/2016 8:30,5/4/2016 10:00,,,"Lightning Talks, Session","greg-giaimo,rick-donnelly",,,wed-a1-2
+Future of Travel Modeling Tools,,5/4/2016 8:30,5/4/2016 10:00,,,"Discussion, Session","david-ory,elizabeth-sall,billy-charlton,joan-walker",,,wed-a1-3
+"Closing Session, Thank You, Awards",,5/4/2016 10:30,5/4/2016 12:00,,,"Plenary, Session","jen-duthie,david-kurth",,,wed-closing
