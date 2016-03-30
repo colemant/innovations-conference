@@ -1,0 +1,110 @@
+---
+title: "Build App Databases"
+author: "David Ory"
+output: 
+   html_document:
+      theme: cosmo
+      toc: yes
+---
+
+## Administration
+
+#### Purpose
+For the Innovations Conference App, I've created a set of working databases that I edit in Excel/text editor.  These are in `working` --> `sessions.csv`, `speakers.csv`, and `exhibitors.csv`.  This script consumes those databases and does the following:
+
+1.  Checks that each speaker identified in `sessions.csv` is a member of `speakers.csv`.
+2.  Replaces the intuitive speaker ID with a unique integer in both `speakers.csv` and `sessions.csv`.
+3.  Replaces the somewhat intuitive session ID with a unique integer in `sessions.csv`.
+4.  Writes out refreshed databases to the `production` directory.
+
+#### Outputs
+1.  A set of updated databases written to the `production` directory. 
+2.  A list of speaker names that are in the `session.csv` database but not the `speakers.csv` database.
+
+#### _TODO_
+1.  More or less everything, start with Step 2
+2.  Clean up Step 1
+
+## Procedure
+
+#### Overhead
+```{r overhead, results = 'hide'}
+library(knitr)
+library(reshape2)
+suppressMessages(library(dplyr))
+library(stringr)
+```
+
+```{r config, include=FALSE}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+#### Remote I/O
+```{r remote-io}
+INPUT_SESSIONS   = "../working/sessions.csv"
+INPUT_SPEAKERS   = "../working/speakers.csv"
+INPUT_EXHIBITORS = "../working/exhibitors.csv"
+
+OUTPUT_SESSIONS   = "../production/sessions.csv"
+OUTPUT_SPEAKERS   = "../production/speakers.csv"
+OUTPUT_EXHIBITORS = "../production/exhibitors.csv"
+```
+
+#### Data reads
+```{r data-reads}
+input_sessions   <- read.table(file = INPUT_SESSIONS,   header = TRUE, sep = ",", stringsAsFactors = FALSE)
+input_speakers   <- read.table(file = INPUT_SPEAKERS,   header = TRUE, sep = ",", stringsAsFactors = FALSE)
+input_exhibitors <- read.table(file = INPUT_EXHIBITORS, header = TRUE, sep = ",", stringsAsFactors = FALSE) 
+
+```
+
+#### Step 1: Check for integrity of session database speaker ID list
+```{r speaker-check}
+# first bit: get a unique list of speakers from the sessions database
+speaker_list <- input_sessions %>%
+  select(Speaker.IDs)
+
+speaker_variables = c("speaker_01", "speaker_02", "speaker_03", "speaker_04", "speaker_05", 
+                      "speaker_06", "speaker_07", "speaker_08", "speaker_09", "speaker_10", 
+                      "speaker_11", "speaker_12", "speaker_13", "speaker_14", "speaker_15")
+
+speaker_list <- cbind(speaker_list, colsplit(speaker_list$Speaker.IDs, ",", speaker_variables))
+
+speaker_condensed <- speaker_list %>%
+  select(speaker = speaker_01)
+
+for (i in 2:length(speaker_variables)) {
+  
+  working <- speaker_list[][speaker_variables[i]]
+  colnames(working) <- c("speaker")
+  
+  speaker_condensed <- rbind(speaker_condensed, working)
+  
+}
+
+speaker_condensed <- speaker_condensed %>%
+  filter(is.na(speaker) == FALSE) %>%
+  filter(str_length(speaker) > 1) %>%
+  group_by(speaker) %>%
+  summarise(count = n()) %>%
+  ungroup() %>%
+  select(speaker) %>%
+  mutate(speaker = str_trim(speaker))
+
+# second bit: compare the unique list to the speaker database
+speaker_working <- input_speakers %>%
+  select(speaker = Speaker.ID, first_name = First.Name..required., last_name = Last.Name..required.) %>%
+  mutate(speaker = str_trim(speaker))
+
+speaker_compare <- left_join(speaker_condensed, speaker_working, by = c("speaker"))
+
+speaker_errors <- speaker_compare %>%
+  filter(is.na(first_name))
+
+speaker_errors
+  
+remove(speaker_compare, speaker_condensed, speaker_list, speaker_working, working)  
+
+```
+
+
